@@ -4,7 +4,7 @@ QueryMate lets anyone ask a question about a MySQL database in plain English. It
 structure and the question to Google Gemini, checks the SQL that comes back, runs it safely and shows
 the answer as a table, a chart and the SQL itself.
 
-Industrial Training Project, B.Tech Information Technology, SKIT Jaipur. Author: Sampurna Pareek.
+B.Tech Information Technology, SKIT Jaipur. Author: Sampurna Pareek.
 
 ## Features
 - Plain English to MySQL, using the Gemini API
